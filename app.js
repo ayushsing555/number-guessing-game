@@ -1,6 +1,7 @@
 const a= Math.floor(Math.random()*100);
 if(a==0)
   a=1;
+
   let sum=10;
   let b=document.getElementById("number");
 btn1.addEventListener("click",checknum);
