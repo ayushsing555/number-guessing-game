@@ -1,0 +1,40 @@
+.header{
+    background-color: aquamarine;
+    width: 500px;
+    height: 150px;
+    text-align: center;
+    padding-top: 15px;
+}
+.main{
+    width: 600px;
+    height: 300px;
+    background-color:rgb(0, 255, 170);
+}
+.main{
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.main h1{
+    
+    color: aquamarine;
+    width: 280px;
+    background-color: rgb(0, 0, 0);
+}
+button{
+    border: none;
+}
+.btn,input{
+    width: 120px;
+    height: 30px;
+}
+button:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+   
+}
+#update{
+    width: 450px;
+}
+#btn2{
+    display:none;
+}
